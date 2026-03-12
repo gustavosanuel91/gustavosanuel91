@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Gustavo Samuel! 👋</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Estudante+de+Inteligência+Artificial" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Estudante+de+Inteligência+Artificial;Desenvolvedor+em+Formação" alt="Typing SVG" />
 </div>
 
 ### 🎓 Formação & Paixão
@@ -19,22 +19,21 @@ Atualmente cursando o 1º período de **Inteligência Artificial no SENAI FATESG
 ### 📱 App Academia - FATESG
 <table width="100%">
   <tr>
-    <td width="40%">
-      <img src="https://link-para-uma-imagem-do-seu-app.png" alt="Preview do App Academia" width="100%" style="border-radius: 10px;"/>
+    <td width="45%">
+      <img src="7e8f87f4-3ab6-4842-8887-23dc5886ced4.jpg" alt="Preview do App Academia" width="100%" style="border-radius: 10px;"/>
     </td>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <p>Estamos desenvolvendo em grupo um site/aplicativo de academia, focando na personalização de treinos e acompanhamento de saúde.</p>
-      <p><i>Foco em experiência do usuário e análise de dados de performance.</i></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 Estatísticas
+## 📊 Minhas Estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavosanuel91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosanuel91&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
