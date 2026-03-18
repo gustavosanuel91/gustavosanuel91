@@ -43,25 +43,29 @@ Atualmente cursando o 1º período de **Inteligência Artificial no SENAI FATESG
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&color=00F2FF&width=300&lines=📊+Minhas+Estatísticas">
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavosanuel91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=00F2FF&text_color=FFFFFF&icon_color=00F2FF&border_color=00F2FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosanuel91&layout=compact&langs_count=7&theme=tokyonight&title_color=00F2FF&text_color=FFFFFF&icon_color=00F2FF&border_color=00F2FF"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&color=00F2FF&width=400&lines=💻+Tecnologias+e+Ferramentas">
-  
-  <br><br>
 
-  <table>
+<div align="center">
+  <table border="0">
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40" /><br><sub><b>Python</b></u></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40" /><br><sub><b>Git</b></u></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40" /><br><sub><b>GitHub</b></u></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40" /><br><sub><b>VS Code</b></u></td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=python" width="40" /><br>
+        <sub><b>Python</b></sub>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=git" width="40" /><br>
+        <sub><b>Git</b></sub>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=github" width="40" /><br>
+        <sub><b>GitHub</b></sub>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" /><br>
+        <sub><b>VS Code</b></sub>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -69,8 +73,9 @@ Atualmente cursando o 1º período de **Inteligência Artificial no SENAI FATESG
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&color=00F2FF&width=300&lines=📫+Conecte-se+Comigo">
 <div align="center">
-  <a href="mailto:gustavosanuel91@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-samuel-18410a315" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:gustavosanuel91@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-  <a href="https://wa.me/5562996822751"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://discord.com/users/_gustavu_"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:gustavosanuel91@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/5562996822751"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
